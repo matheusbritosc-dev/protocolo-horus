@@ -36,7 +36,7 @@ protocolo-horus/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USER/protocolo-horus.git
+git clone https://github.com/matheusbritosc-dev/protocolo-horus.git
 cd protocolo-horus
 
 # 2. Instale as dependências
